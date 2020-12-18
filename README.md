@@ -5,3 +5,5 @@ __[Industrial Training Report](https://docs.google.com/document/d/1wvnNuu4aiyh2V
 __[Deployed App](https://nextjs-blog-krvkg6abw.now.sh/)__
 
 __[Experience Letter](https://drive.google.com/file/d/1zzmJrzZwO14mxkhXuhvh7BCVHPUh-Byc/view?usp=sharing)__
+
+__[YouTube Tutorial](https://youtu.be/jH_lKOqlzms)__
